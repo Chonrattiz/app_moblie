@@ -55,7 +55,7 @@ class _tripState extends State<Trippage> {
               SizedBox(height: 16),
               FilledButton(
                 onPressed: () {},
-                child: Text('จองโล้ด'),
+                child: Text('จองเลย'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: const Color.fromARGB(255, 22, 116, 238),
                 ),
