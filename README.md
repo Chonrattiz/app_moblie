@@ -1,2 +1,2 @@
 # app_moblie
-adasdas
+รูปทุกหน้าอยูาในFolder ชื่อ All_pic
