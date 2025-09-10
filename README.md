@@ -1,2 +1,2 @@
 # app_moblie
-รูปทุกหน้าอยูาในFolder ชื่อ All_pic
+รูปทุกหน้าอยู่ในFolder ชื่อ All_pic
