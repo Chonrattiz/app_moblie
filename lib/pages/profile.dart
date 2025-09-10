@@ -44,7 +44,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
                   ),
                   children: [
-                    Text('จะลบแล้วนะไม่ได้กดผิดใช่ไหม'),
+                    Text('ยืนยันการลบ'),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: [
@@ -52,11 +52,11 @@ class _ProfilePageState extends State<ProfilePage> {
                           onPressed: () {
                             Navigator.pop(context);
                           },
-                          child: Text('บ่'),
+                          child: Text('ยกเลิก'),
                         ),
                         FilledButton(
                           onPressed: delete,
-                          child: Text('แม่นแล้วหำน้อย'),
+                          child: Text('ยืนยัน'),
                         ),
                       ],
                     ),
